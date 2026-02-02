@@ -101,6 +101,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
 Hi city666668-creator! You've successfully authenticated, but GitHub does not provide shell access.
 
+------------------------------------------------------------------------------------------****
 Administrator@CHINAMI-VED2E15 MINGW64 ~/Desktop/gitcode (dev)
 $ https://github.com/city666668-creator/gitTest.git
 bash: https://github.com/city666668-creator/gitTest.git: No such file or directory
